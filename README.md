@@ -96,13 +96,17 @@ Important files:
 
 ## Screenshots
 
-Add screenshots here after running the app on a simulator or device:
+<p>
+  <img src="docs/screenshots/dashboard.png" alt="SnapBill dashboard" width="240" />
+  <img src="docs/screenshots/history.png" alt="Expense history" width="240" />
+  <img src="docs/screenshots/analytics.png" alt="Analytics overview" width="240" />
+</p>
 
-- Dashboard
-- Add Expense
-- Attach Receipt
-- Analytics
-- Dark Theme
+<p>
+  <img src="docs/screenshots/add-expense.png" alt="Add expense form" width="240" />
+  <img src="docs/screenshots/attach-receipt.png" alt="Attach receipt form" width="240" />
+  <img src="docs/screenshots/settings.png" alt="Settings screen" width="240" />
+</p>
 
 ## Getting Started
 
